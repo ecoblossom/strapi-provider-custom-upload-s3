@@ -1,0 +1,17 @@
+{
+    "name": "strapi-provider-upload-s3-cdn",
+    "version": "1.0.0",
+    "directories": {
+      "lib": "./lib"
+    },
+    "main": "./lib",
+    "dependencies": {
+      "aws-sdk": "2.874.0"
+    },
+    "strapi": {
+      "isProvider": true
+    },
+    "scripts": {
+      "test": "echo \"no tests yet\""
+    }
+  }
