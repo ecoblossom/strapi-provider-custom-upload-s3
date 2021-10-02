@@ -1,5 +1,5 @@
 {
-    "name": "strapi-provider-upload-s3-cdn",
+    "name": "strapi-provider-upload-custom-s3",
     "version": "1.0.0",
     "directories": {
       "lib": "./lib"
